@@ -6,6 +6,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="biz.markgo.dispensergeniusrobot.aroma.StartActivity"
-    android:background="@drawable/strat">
+    android:background="@drawable/aroma_strat">
 
 </RelativeLayout>
